@@ -1,0 +1,5 @@
+session "all" = HOL +
+theories [document = false]
+  Definitions
+  Submitted
+  Goal
